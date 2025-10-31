@@ -68,7 +68,7 @@ const chat=document.getElementById('chat');
 const qEl=document.getElementById('q');
 const send=document.getElementById('send');
 
-const GEMINI_API_KEY="";  // ← 여기에 Google API 키 입력
+const GEMINI_API_KEY="";  //AIzaSyCfHHLRT8XLHtEdRhOwaB0WEOr4JyjhXcc
 
 function addBubble(text,who){
   const div=document.createElement('div');
